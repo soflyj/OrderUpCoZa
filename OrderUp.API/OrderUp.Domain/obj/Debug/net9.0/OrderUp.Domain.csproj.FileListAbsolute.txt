@@ -1,0 +1,12 @@
+D:\Repo\OrderUp\OrderUp.Domain\obj\Debug\net9.0\OrderUp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\OrderUp\OrderUp.Domain\obj\Debug\net9.0\OrderUp.Domain.AssemblyInfoInputs.cache
+D:\Repo\OrderUp\OrderUp.Domain\obj\Debug\net9.0\OrderUp.Domain.AssemblyInfo.cs
+D:\Repo\OrderUp\OrderUp.Domain\obj\Debug\net9.0\OrderUp.Domain.csproj.CoreCompileInputs.cache
+D:\Repo\OrderUp\OrderUp.Domain\obj\Debug\net9.0\OrderUp.Domain.sourcelink.json
+D:\Repo\OrderUp\OrderUp.Domain\bin\Debug\net9.0\OrderUp.Domain.deps.json
+D:\Repo\OrderUp\OrderUp.Domain\bin\Debug\net9.0\OrderUp.Domain.dll
+D:\Repo\OrderUp\OrderUp.Domain\bin\Debug\net9.0\OrderUp.Domain.pdb
+D:\Repo\OrderUp\OrderUp.Domain\obj\Debug\net9.0\OrderUp.Domain.dll
+D:\Repo\OrderUp\OrderUp.Domain\obj\Debug\net9.0\refint\OrderUp.Domain.dll
+D:\Repo\OrderUp\OrderUp.Domain\obj\Debug\net9.0\OrderUp.Domain.pdb
+D:\Repo\OrderUp\OrderUp.Domain\obj\Debug\net9.0\ref\OrderUp.Domain.dll

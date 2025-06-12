@@ -1,0 +1,16 @@
+D:\Repo\OrderUp\OrderUp.Persistence\obj\Debug\net9.0\OrderUp.Persistence.csproj.AssemblyReference.cache
+D:\Repo\OrderUp\OrderUp.Persistence\obj\Debug\net9.0\OrderUp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\OrderUp\OrderUp.Persistence\obj\Debug\net9.0\OrderUp.Persistence.AssemblyInfoInputs.cache
+D:\Repo\OrderUp\OrderUp.Persistence\obj\Debug\net9.0\OrderUp.Persistence.AssemblyInfo.cs
+D:\Repo\OrderUp\OrderUp.Persistence\obj\Debug\net9.0\OrderUp.Persistence.csproj.CoreCompileInputs.cache
+D:\Repo\OrderUp\OrderUp.Persistence\obj\Debug\net9.0\OrderUp.Persistence.sourcelink.json
+D:\Repo\OrderUp\OrderUp.Persistence\bin\Debug\net9.0\OrderUp.Persistence.deps.json
+D:\Repo\OrderUp\OrderUp.Persistence\bin\Debug\net9.0\OrderUp.Persistence.dll
+D:\Repo\OrderUp\OrderUp.Persistence\bin\Debug\net9.0\OrderUp.Persistence.pdb
+D:\Repo\OrderUp\OrderUp.Persistence\bin\Debug\net9.0\OrderUp.Domain.dll
+D:\Repo\OrderUp\OrderUp.Persistence\bin\Debug\net9.0\OrderUp.Domain.pdb
+D:\Repo\OrderUp\OrderUp.Persistence\obj\Debug\net9.0\OrderUp..FA6AB39D.Up2Date
+D:\Repo\OrderUp\OrderUp.Persistence\obj\Debug\net9.0\OrderUp.Persistence.dll
+D:\Repo\OrderUp\OrderUp.Persistence\obj\Debug\net9.0\refint\OrderUp.Persistence.dll
+D:\Repo\OrderUp\OrderUp.Persistence\obj\Debug\net9.0\OrderUp.Persistence.pdb
+D:\Repo\OrderUp\OrderUp.Persistence\obj\Debug\net9.0\ref\OrderUp.Persistence.dll

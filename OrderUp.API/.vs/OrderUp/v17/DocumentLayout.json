@@ -1,0 +1,503 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repo\\OrderUp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE004511-9D1B-4FF1-B066-DA1646C643F3}|OrderUp.Infrastructure\\OrderUp.Infrastructure.csproj|d:\\repo\\orderup\\orderup.infrastructure\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE004511-9D1B-4FF1-B066-DA1646C643F3}|OrderUp.Infrastructure\\OrderUp.Infrastructure.csproj|solutionrelative:orderup.infrastructure\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C8F9C6-E407-42DA-860D-BEF46014390A}|OrderUp.Persistence\\OrderUp.Persistence.csproj|d:\\repo\\orderup\\orderup.persistence\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C8F9C6-E407-42DA-860D-BEF46014390A}|OrderUp.Persistence\\OrderUp.Persistence.csproj|solutionrelative:orderup.persistence\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE004511-9D1B-4FF1-B066-DA1646C643F3}|OrderUp.Infrastructure\\OrderUp.Infrastructure.csproj|d:\\repo\\orderup\\orderup.infrastructure\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE004511-9D1B-4FF1-B066-DA1646C643F3}|OrderUp.Infrastructure\\OrderUp.Infrastructure.csproj|solutionrelative:orderup.infrastructure\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Repo\\OrderUp\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE004511-9D1B-4FF1-B066-DA1646C643F3}|OrderUp.Infrastructure\\OrderUp.Infrastructure.csproj|d:\\repo\\orderup\\orderup.infrastructure\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE004511-9D1B-4FF1-B066-DA1646C643F3}|OrderUp.Infrastructure\\OrderUp.Infrastructure.csproj|solutionrelative:orderup.infrastructure\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE004511-9D1B-4FF1-B066-DA1646C643F3}|OrderUp.Infrastructure\\OrderUp.Infrastructure.csproj|d:\\repo\\orderup\\orderup.infrastructure\\jwt\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE004511-9D1B-4FF1-B066-DA1646C643F3}|OrderUp.Infrastructure\\OrderUp.Infrastructure.csproj|solutionrelative:orderup.infrastructure\\jwt\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C34CCC-53F7-4686-A9E8-AFAA06B6FECE}|OrderUp.API\\OrderUp.API.csproj|d:\\repo\\orderup\\orderup.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C34CCC-53F7-4686-A9E8-AFAA06B6FECE}|OrderUp.API\\OrderUp.API.csproj|solutionrelative:orderup.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DE89E-8FA8-4744-81F2-54580805C28E}|OrderUp.Domain\\OrderUp.Domain.csproj|d:\\repo\\orderup\\orderup.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292DE89E-8FA8-4744-81F2-54580805C28E}|OrderUp.Domain\\OrderUp.Domain.csproj|solutionrelative:orderup.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DE89E-8FA8-4744-81F2-54580805C28E}|OrderUp.Domain\\OrderUp.Domain.csproj|d:\\repo\\orderup\\orderup.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292DE89E-8FA8-4744-81F2-54580805C28E}|OrderUp.Domain\\OrderUp.Domain.csproj|solutionrelative:orderup.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DE89E-8FA8-4744-81F2-54580805C28E}|OrderUp.Domain\\OrderUp.Domain.csproj|d:\\repo\\orderup\\orderup.domain\\orderup.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{292DE89E-8FA8-4744-81F2-54580805C28E}|OrderUp.Domain\\OrderUp.Domain.csproj|solutionrelative:orderup.domain\\orderup.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C34CCC-53F7-4686-A9E8-AFAA06B6FECE}|OrderUp.API\\OrderUp.API.csproj|d:\\repo\\orderup\\orderup.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C34CCC-53F7-4686-A9E8-AFAA06B6FECE}|OrderUp.API\\OrderUp.API.csproj|solutionrelative:orderup.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C34CCC-53F7-4686-A9E8-AFAA06B6FECE}|OrderUp.API\\OrderUp.API.csproj|d:\\repo\\orderup\\orderup.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C34CCC-53F7-4686-A9E8-AFAA06B6FECE}|OrderUp.API\\OrderUp.API.csproj|solutionrelative:orderup.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE004511-9D1B-4FF1-B066-DA1646C643F3}|OrderUp.Infrastructure\\OrderUp.Infrastructure.csproj|d:\\repo\\orderup\\orderup.infrastructure\\orderup.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE004511-9D1B-4FF1-B066-DA1646C643F3}|OrderUp.Infrastructure\\OrderUp.Infrastructure.csproj|solutionrelative:orderup.infrastructure\\orderup.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F693B5-C472-47D0-BE6B-5CC85E43AF17}|OrderUp.Application\\OrderUp.Application.csproj|d:\\repo\\orderup\\orderup.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F693B5-C472-47D0-BE6B-5CC85E43AF17}|OrderUp.Application\\OrderUp.Application.csproj|solutionrelative:orderup.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DE89E-8FA8-4744-81F2-54580805C28E}|OrderUp.Domain\\OrderUp.Domain.csproj|d:\\repo\\orderup\\orderup.domain\\enums\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292DE89E-8FA8-4744-81F2-54580805C28E}|OrderUp.Domain\\OrderUp.Domain.csproj|solutionrelative:orderup.domain\\enums\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DE89E-8FA8-4744-81F2-54580805C28E}|OrderUp.Domain\\OrderUp.Domain.csproj|d:\\repo\\orderup\\orderup.domain\\enums\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292DE89E-8FA8-4744-81F2-54580805C28E}|OrderUp.Domain\\OrderUp.Domain.csproj|solutionrelative:orderup.domain\\enums\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DE89E-8FA8-4744-81F2-54580805C28E}|OrderUp.Domain\\OrderUp.Domain.csproj|d:\\repo\\orderup\\orderup.domain\\entities\\baker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292DE89E-8FA8-4744-81F2-54580805C28E}|OrderUp.Domain\\OrderUp.Domain.csproj|solutionrelative:orderup.domain\\entities\\baker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C34CCC-53F7-4686-A9E8-AFAA06B6FECE}|OrderUp.API\\OrderUp.API.csproj|d:\\repo\\orderup\\orderup.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1C34CCC-53F7-4686-A9E8-AFAA06B6FECE}|OrderUp.API\\OrderUp.API.csproj|solutionrelative:orderup.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DE89E-8FA8-4744-81F2-54580805C28E}|OrderUp.Domain\\OrderUp.Domain.csproj|d:\\repo\\orderup\\orderup.domain\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292DE89E-8FA8-4744-81F2-54580805C28E}|OrderUp.Domain\\OrderUp.Domain.csproj|solutionrelative:orderup.domain\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DE89E-8FA8-4744-81F2-54580805C28E}|OrderUp.Domain\\OrderUp.Domain.csproj|d:\\repo\\orderup\\orderup.domain\\entities\\requestlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292DE89E-8FA8-4744-81F2-54580805C28E}|OrderUp.Domain\\OrderUp.Domain.csproj|solutionrelative:orderup.domain\\entities\\requestlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DE89E-8FA8-4744-81F2-54580805C28E}|OrderUp.Domain\\OrderUp.Domain.csproj|d:\\repo\\orderup\\orderup.domain\\entities\\productinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292DE89E-8FA8-4744-81F2-54580805C28E}|OrderUp.Domain\\OrderUp.Domain.csproj|solutionrelative:orderup.domain\\entities\\productinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DE89E-8FA8-4744-81F2-54580805C28E}|OrderUp.Domain\\OrderUp.Domain.csproj|d:\\repo\\orderup\\orderup.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292DE89E-8FA8-4744-81F2-54580805C28E}|OrderUp.Domain\\OrderUp.Domain.csproj|solutionrelative:orderup.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C34CCC-53F7-4686-A9E8-AFAA06B6FECE}|OrderUp.API\\OrderUp.API.csproj|d:\\repo\\orderup\\orderup.api\\orderup.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1C34CCC-53F7-4686-A9E8-AFAA06B6FECE}|OrderUp.API\\OrderUp.API.csproj|solutionrelative:orderup.api\\orderup.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{292DE89E-8FA8-4744-81F2-54580805C28E}|OrderUp.Domain\\OrderUp.Domain.csproj|d:\\repo\\orderup\\orderup.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{292DE89E-8FA8-4744-81F2-54580805C28E}|OrderUp.Domain\\OrderUp.Domain.csproj|solutionrelative:orderup.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DCA4CD-B89A-4F7C-A041-D997B20C4EAD}|OrderUp.Tests\\OrderUp.Tests.csproj|d:\\repo\\orderup\\orderup.tests\\services\\tenantservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DCA4CD-B89A-4F7C-A041-D997B20C4EAD}|OrderUp.Tests\\OrderUp.Tests.csproj|solutionrelative:orderup.tests\\services\\tenantservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Repo\\OrderUp\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C34CCC-53F7-4686-A9E8-AFAA06B6FECE}|OrderUp.API\\OrderUp.API.csproj|d:\\repo\\orderup\\orderup.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D1C34CCC-53F7-4686-A9E8-AFAA06B6FECE}|OrderUp.API\\OrderUp.API.csproj|solutionrelative:orderup.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C34CCC-53F7-4686-A9E8-AFAA06B6FECE}|OrderUp.API\\OrderUp.API.csproj|d:\\repo\\orderup\\orderup.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C34CCC-53F7-4686-A9E8-AFAA06B6FECE}|OrderUp.API\\OrderUp.API.csproj|solutionrelative:orderup.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C8F9C6-E407-42DA-860D-BEF46014390A}|OrderUp.Persistence\\OrderUp.Persistence.csproj|d:\\repo\\orderup\\orderup.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C8F9C6-E407-42DA-860D-BEF46014390A}|OrderUp.Persistence\\OrderUp.Persistence.csproj|solutionrelative:orderup.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F693B5-C472-47D0-BE6B-5CC85E43AF17}|OrderUp.Application\\OrderUp.Application.csproj|d:\\repo\\orderup\\orderup.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F693B5-C472-47D0-BE6B-5CC85E43AF17}|OrderUp.Application\\OrderUp.Application.csproj|solutionrelative:orderup.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\Repo\\OrderUp\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-07T18:16:46.445Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.Infrastructure\\AuthService.cs",
+              "RelativeDocumentMoniker": "OrderUp.Infrastructure\\AuthService.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.Infrastructure\\AuthService.cs",
+              "RelativeToolTip": "OrderUp.Infrastructure\\AuthService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T20:39:35.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderUp.Domain.csproj",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.Domain\\OrderUp.Domain.csproj",
+              "RelativeDocumentMoniker": "OrderUp.Domain\\OrderUp.Domain.csproj",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.Domain\\OrderUp.Domain.csproj",
+              "RelativeToolTip": "OrderUp.Domain\\OrderUp.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-08T05:40:37.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.Infrastructure\\JWT\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "OrderUp.Infrastructure\\JWT\\JwtTokenGenerator.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.Infrastructure\\JWT\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "OrderUp.Infrastructure\\JWT\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIAwwBgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T05:41:18.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.Domain\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "OrderUp.Domain\\Enums\\UserRole.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.Domain\\Enums\\UserRole.cs",
+              "RelativeToolTip": "OrderUp.Domain\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T13:35:42.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.Infrastructure\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "OrderUp.Infrastructure\\ServiceRegistration.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.Infrastructure\\ServiceRegistration.cs",
+              "RelativeToolTip": "OrderUp.Infrastructure\\ServiceRegistration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T05:36:18.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectDbContext.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.Persistence\\ProjectDbContext.cs",
+              "RelativeDocumentMoniker": "OrderUp.Persistence\\ProjectDbContext.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.Persistence\\ProjectDbContext.cs",
+              "RelativeToolTip": "OrderUp.Persistence\\ProjectDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:42:33.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "OrderUp.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "OrderUp.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvyAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T05:39:54.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "OrderUp.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "OrderUp.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:21:43.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.Infrastructure\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "OrderUp.Infrastructure\\Middleware\\RequestLoggingMiddleware.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.Infrastructure\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "OrderUp.Infrastructure\\Middleware\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwBsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:29:13.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "OrderUp.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "OrderUp.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T05:37:30.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrderUp.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrderUp.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T05:37:28.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.Domain\\Enums\\Vendor.cs",
+              "RelativeDocumentMoniker": "OrderUp.Domain\\Enums\\Vendor.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.Domain\\Enums\\Vendor.cs",
+              "RelativeToolTip": "OrderUp.Domain\\Enums\\Vendor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T13:37:25.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "OrderUp.Application\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "OrderUp.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:09:59.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderUp.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.Infrastructure\\OrderUp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "OrderUp.Infrastructure\\OrderUp.Infrastructure.csproj",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.Infrastructure\\OrderUp.Infrastructure.csproj",
+              "RelativeToolTip": "OrderUp.Infrastructure\\OrderUp.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-04T15:02:05.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.Domain\\Enums\\Subscription.cs",
+              "RelativeDocumentMoniker": "OrderUp.Domain\\Enums\\Subscription.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.Domain\\Enums\\Subscription.cs",
+              "RelativeToolTip": "OrderUp.Domain\\Enums\\Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T13:36:24.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Baker.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.Domain\\Entities\\Baker.cs",
+              "RelativeDocumentMoniker": "OrderUp.Domain\\Entities\\Baker.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.Domain\\Entities\\Baker.cs",
+              "RelativeToolTip": "OrderUp.Domain\\Entities\\Baker.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T13:38:55.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderUp.API\\appsettings.json",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.API\\appsettings.json",
+              "RelativeToolTip": "OrderUp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-03T18:14:43.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "OrderUp.Domain\\Entities\\Order.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "OrderUp.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:22:52.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RequestLog.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.Domain\\Entities\\RequestLog.cs",
+              "RelativeDocumentMoniker": "OrderUp.Domain\\Entities\\RequestLog.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.Domain\\Entities\\RequestLog.cs",
+              "RelativeToolTip": "OrderUp.Domain\\Entities\\RequestLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:22:55.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.Domain\\Entities\\Subscription.cs",
+              "RelativeDocumentMoniker": "OrderUp.Domain\\Entities\\Subscription.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.Domain\\Entities\\Subscription.cs",
+              "RelativeToolTip": "OrderUp.Domain\\Entities\\Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:23:00.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductInventory.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.Domain\\Entities\\ProductInventory.cs",
+              "RelativeDocumentMoniker": "OrderUp.Domain\\Entities\\ProductInventory.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.Domain\\Entities\\ProductInventory.cs",
+              "RelativeToolTip": "OrderUp.Domain\\Entities\\ProductInventory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T13:38:41.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderUp.API.csproj",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.API\\OrderUp.API.csproj",
+              "RelativeDocumentMoniker": "OrderUp.API\\OrderUp.API.csproj",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.API\\OrderUp.API.csproj",
+              "RelativeToolTip": "OrderUp.API\\OrderUp.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T18:14:40.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "OrderUp.Domain\\Entities\\Product.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "OrderUp.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAABYwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:53:27.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TenantServiceTests.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.Tests\\Services\\TenantServiceTests.cs",
+              "RelativeDocumentMoniker": "OrderUp.Tests\\Services\\TenantServiceTests.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.Tests\\Services\\TenantServiceTests.cs",
+              "RelativeToolTip": "OrderUp.Tests\\Services\\TenantServiceTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAhwA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:38:06.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\Repo\\OrderUp\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-04T15:25:54.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.API\\Program.cs",
+              "RelativeDocumentMoniker": "OrderUp.API\\Program.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.API\\Program.cs",
+              "RelativeToolTip": "OrderUp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:20:07.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.API\\Dockerfile",
+              "RelativeDocumentMoniker": "OrderUp.API\\Dockerfile",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.API\\Dockerfile",
+              "RelativeToolTip": "OrderUp.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-03T18:17:33.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "OrderUp.Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "OrderUp.Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:55:02.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "D:\\Repo\\OrderUp\\OrderUp.Persistence\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "OrderUp.Persistence\\ServiceRegistration.cs",
+              "ToolTip": "D:\\Repo\\OrderUp\\OrderUp.Persistence\\ServiceRegistration.cs",
+              "RelativeToolTip": "OrderUp.Persistence\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:16:05.977Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
